@@ -1,0 +1,26 @@
+body{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh ;
+
+}
+
+
+
+
+@font-face {
+    font-family:'adesh';
+    src: url('SFPRODISPLAYBLACKITALIC.OTF');
+}
+
+
+p{
+  font-family:'adesh',sans-serif;
+   color: rgb(44, 69, 228);
+   font-weight: lighter;
+   font-style: italic;
+   text-decoration: overline;
+
+

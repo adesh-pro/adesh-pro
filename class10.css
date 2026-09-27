@@ -1,0 +1,23 @@
+h1{
+    font-family:'Bodoni Moda',serif;
+    font: size 800px;
+    font-weight: 700; 
+    color: blue;
+    align-items:center ;
+    justify-content: center;
+    display: flex;
+    text-shadow: 5px 10px 10px black ;
+    box-shadow:5px  ;
+}
+
+p{
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 20px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#para1::first-letter{
+    font-size: 20px;
+}
